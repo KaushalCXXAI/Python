@@ -83,3 +83,62 @@ x = None
 print(type(x), "   value of x:", x)
 
 print("--------------------------------------------------------------------------------------------------------------------")
+
+# String (text data)
+x = str("Hello World")
+print(type(x), "   value of x:", x)
+
+# Integer (whole number)
+x = int(20)
+print(type(x), "   value of x:", x)
+
+# Float (decimal number)
+x = float(20.5)
+print(type(x), "   value of x:", x)
+
+# Complex number (real + imaginary part)
+x = complex(1j)
+print(type(x), "   value of x:", x)
+
+# List (ordered, mutable, allows duplicates)
+x = list(("apple", "banana", "cherry"))
+print(type(x), "   value of x:", x)
+
+# Tuple (ordered, immutable, allows duplicates)
+x = tuple(("apple", "banana", "cherry"))
+print(type(x), "   value of x:", x)
+
+# Range (sequence of numbers, typically used in loops)
+x = range(6)
+print(type(x), "   value of x:", x)
+
+# Dictionary (key-value pairs, unordered as of < Python 3.7)
+x = dict(name="John", age=36)
+print(type(x), "   value of x:", x)
+
+# Set (unordered, unique elements)
+x = set(("apple", "banana", "cherry"))
+print(type(x), "   value of x:", x)
+
+# Frozenset (immutable version of a set)
+x = frozenset(("apple", "banana", "cherry"))
+print(type(x), "   value of x:", x)
+
+# Boolean (True or False)
+x = bool(5)
+print(type(x), "   value of x:", x)
+
+# Bytes (immutable sequence of bytes)
+x = bytes(5)
+print(type(x), "   value of x:", x)
+
+# Bytearray (mutable sequence of bytes)
+x = bytearray(5)
+print(type(x), "   value of x:", x)
+
+# Memoryview (access internal data of binary objects without copying)
+x = memoryview(bytes(5))
+print(type(x), "   value of x:", x)
+
+print("--------------------------------------------------------------------------------------------------------------------")
+
