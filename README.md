@@ -49,7 +49,7 @@ Here’s a quick tour of the folders you’ll find and More stuff will be added 
 
 ## Future plans
 
-- Start AI/ML basics and small projects.
+- Start AI/ML basics,Flight software basics and small projects.
 - Clean up older scripts and add better documentation.
 
 ---
