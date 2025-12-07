@@ -38,3 +38,5 @@ def exercise5():
 
 # exercise5()
 
+def exercise6():
+   pass
