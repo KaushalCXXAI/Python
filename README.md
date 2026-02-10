@@ -31,19 +31,19 @@ Here’s a quick tour of the folders you’ll find and More stuff will be added 
  **Automate Boring Stuff with Python by AL-Sweigart/**  
   Code snippets, exercises, and notes as I go through this practical automation-focused book.
 
- **109 Python Problems/**  
-  Practice problems from *ikokkari-PythonProblems* and my solutions.
 
  **Python-Practice/**  
+  - `Advent of code`:this folder contain code for advent of code 
   - `Codewars/`: My solutions to Codewars challenges.
   - `Python Exercises - AL SWEIGART/`: More practice based on Al Sweigart’s materials.
+  - `just practice`: this folder has some random code for random topic for practice or recap purpose 
+  - `W3 school's python`: some basic function recaps and revision stuff, i regret making this waste of time cuz i can't learn by this way 
 
  **Experiments/**  
   Small projects, ideas, or quick tests.  
 
- **W3-Python/**  
-  Practice exercises and topics like list , dicts and string funstions for revision
-
+ **Small Projects/**  
+ Small standalone Python projects built while learning.  
 
 ---
 
